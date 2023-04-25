@@ -1,0 +1,41 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine (Kotlin)/task/build/
+/Coffee Machine (Kotlin)/task/out/
+/Coffee Machine (Kotlin)/task/out/production/classes/
+/Topics/Declaring functions/The square of a number/out/
+/Topics/Declaring functions/The square of a number/out/production/classes/
+/Topics/Declaring functions/Vowel or not/out/
+/Topics/Declaring functions/Vowel or not/out/production/classes/
+/Topics/Default arguments/Polynomial/out/
+/Topics/Default arguments/Polynomial/out/production/classes/
+/Topics/Enum/Danger level/out/
+/Topics/Enum/Danger level/out/production/classes/
+/Topics/Enum/Days of the week/out/
+/Topics/Enum/Days of the week/out/production/classes/
+/Topics/Functional decomposition/Calculator with four functions/out/
+/Topics/Functional decomposition/Calculator with four functions/out/production/classes/
+/Topics/Integers in action/How many nuts will be left after division/out/
+/Topics/Integers in action/How many nuts will be left after division/out/production/classes/
+/Topics/Integers in action/Reversing a number/out/
+/Topics/Integers in action/Reversing a number/out/production/classes/
+/Topics/Named arguments/Car price/out/
+/Topics/Named arguments/Car price/out/production/classes/
+/Topics/Named arguments/URL/out/
+/Topics/Named arguments/URL/out/production/classes/
+/Topics/Ranges/At least one/out/
+/Topics/Ranges/At least one/out/production/classes/
+/Topics/Ranges/Job/out/
+/Topics/Ranges/Job/out/production/classes/
+/Topics/Ranges/Not in range/out/
+/Topics/Ranges/Not in range/out/production/classes/
+/Topics/Ranges/Working hours/out/
+/Topics/Ranges/Working hours/out/production/classes/
+/Topics/When expression/Floor-space of the room/out/
+/Topics/When expression/Floor-space of the room/out/production/classes/
+/Topics/When expression/Just checking/out/
+/Topics/When expression/Just checking/out/production/classes/
+/Topics/When expression/String processor/out/
+/Topics/When expression/String processor/out/production/classes/
+/Topics/When expression/The army of units/out/
+/Topics/When expression/The army of units/out/production/classes/
